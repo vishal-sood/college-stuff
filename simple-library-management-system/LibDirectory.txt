@@ -1,0 +1,26 @@
+Users:
+Dave Stacey	1	faculty	1
+April Sales	2	faculty	0
+Gabri Loa	3	student	0
+Ging Henie	4	student	0
+Roy Flores	5	librarian	0
+Elizabeth Harwell	6	librarian	0
+Books:
+Java Programming	CRC Press	09/12/2005	9780203166178	20 	Jo Wood
+Hadoop Big data	Yahoo press	10/15/2010	1449389732	3 	White Tom
+Database Systems	CRC Press	10/10/2013	1111969604	5 	Ramez Elmasri,Shamkant B. Navathe
+Advanced Networking	John Wiley	12/09/2009	9780470534052	11 	Doug Lowe,Chris Wang
+Artificial Intelligence	Newness	04/17/2009	9780080499451	12 	Nils J. Nilsson
+Distributed Algorithms	MIT Press	06/12/2013	9780262318952	6 	Tom Gedeon
+Journals:
+EMERGING TRENDS in IOT	IEEE Computer	08-19-2014	10	11 	a1,a2,a3
+COMMON FRAMEWORK	Elsevier	09-20-2014	10	11 	c1,c2,c3
+Foundations in Machine Learning	IEEE Society	01-22-2014	11	12 	e1,e2
+Molecular Systems Biology	Springer Verlag	10-12-2009	10	11 	n1,n2,n4,n5,n6
+Conferences:
+Java Programming	CRC Press	09/12/2005	9780203166178	20 	Jo Wood	Texas State	09/12/2005
+Hadoop Big data	Yahoo press	10/15/2010	1449389732	4 	White Tom	Courthouse	10/15/2010
+Database Systems	CRC Press	10/10/2013	1111969604	5 	Ramez Elmasri,Shamkant B. Navathe	Texas State	10/10/2013
+Advanced Networking	John Wiley	12/09/2009	9780470534052	11 	Doug Lowe,Chris Wang	Texas State	12/09/2009
+Artificial Intelligence	Newness	04/17/2009	9780080499451	12 	Nils J. Nilsson	The Square	04/17/2009
+Distributed Algorithms	MIT Press	06/12/2013	9780262318952	6 	Tom Gedeon	Courthouse	06/12/2013

@@ -1,0 +1,8 @@
+Tilte		 	Publisher  	date		ISBN            Copies  Author                                   Location      ConferenceDate
+
+Java Programming 	CRC Press  	09/12/2005  	9780203166178	20      Jo Wood                                 Texas State	09/12/2005
+Hadoop Big data  	Yahoo press 	10/15/2010 	1449389732      04	White Tom				Courthouse	10/15/2010
+Database Systems 	CRC Press   	10/10/2013 	1111969604      05	Ramez Elmasri, Shamkant B. Navathe  	Texas State	10/10/2013
+Advanced Networking 	John Wiley  	12/09/2009 	9780470534052   11	Doug Lowe, Chris Wang			Texas State	12/09/2009
+Artificial Intelligence	Newness 	04/17/2009 	9780080499451   12	Nils J. Nilsson				The Square	04/17/2009
+Distributed Algorithms	MIT Press 	06/12/2013 	9780262318952   06	Tom Gedeon				Courthouse	06/12/2013	
